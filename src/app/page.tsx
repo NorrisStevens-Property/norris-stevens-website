@@ -352,7 +352,7 @@ export default function Home() {
               <Link href="/careers/" className="hover:text-blue-200">Careers</Link>
               <Link href="/properties" className="hover:text-blue-200">Commercial Property Listings</Link>
               <Link href="http://intranet.norris-stevens.com/" className="hover:text-blue-200">Corporate Intranet</Link>
-              <Link href="https://mail.office365.com" className="hover:text-blue-200">Corporate Email</Link>
+
               <Link href="https://www3.norris-stevens.com/" className="hover:text-blue-200">Docs Box</Link>
               <Link href="https://www.norris-stevens.com/privacy-policy/" className="hover:text-blue-200">Privacy Policy</Link>
             </div>
