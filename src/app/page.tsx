@@ -318,16 +318,10 @@ export default function Home() {
             {/* Contact Info */}
             <div>
               <address className="not-italic text-lg leading-relaxed">
-                <Link href="https://www.google.com/maps/place/Norris+%26+Stevens/@45.5170077,-122.6801647,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a04fc3b1207:0xa3ff70ae738a8fe6!8m2!3d45.517004!4d-122.677976"
-                      className="hover:text-blue-200">
-                  900 SW 5th Avenue, 17th Floor<br />
-                  Portland, OR 97204
+                <Link href="mailto:management@norrisstevensproperty.com" className="hover:text-blue-200">
+                  management@norrisstevensproperty.com
                 </Link><br />
-                <Link href="mailto:info@norris-stevens.com" className="hover:text-blue-200">
-                  info@norris-stevens.com
-                </Link><br />
-                Phone: <Link href="tel:503-223-3171" className="hover:text-blue-200">503.223.3171</Link><br />
-                Fax: 503.228.2136
+                Phone: <Link href="tel:503-912-8490" className="hover:text-blue-200">503-912-8490</Link>
               </address>
 
               {/* Social Media Icons */}
