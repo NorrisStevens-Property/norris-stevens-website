@@ -299,18 +299,10 @@ export default function MultiFamilyInvestmentSales() {
               </address>
 
               <div className="flex space-x-4 mt-6">
-                <Link href="https://www.facebook.com/norrisandstevens/?ref=aymt_homepage_panel" className="hover:opacity-75">
-                  <Image src="https://ext.same-assets.com/2579185083/3033146840.svg" alt="Facebook" width={24} height={24} />
-                </Link>
-                <Link href="https://twitter.com/NorrisStevens" className="hover:opacity-75">
-                  <Image src="https://ext.same-assets.com/2579185083/1395206.svg" alt="Twitter" width={24} height={24} />
-                </Link>
-                <Link href="https://www.instagram.com/norris_stevens_pdx/" className="hover:opacity-75">
-                  <Image src="https://ext.same-assets.com/2579185083/663603499.svg" alt="Instagram" width={24} height={24} />
-                </Link>
-                <Link href="https://www.linkedin.com/company/norris-&-stevens-inc./" className="hover:opacity-75">
-                  <Image src="https://ext.same-assets.com/2579185083/1220432129.svg" alt="LinkedIn" width={24} height={24} />
-                </Link>
+                
+                
+                
+                
               </div>
             </div>
 
